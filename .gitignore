@@ -1,0 +1,14 @@
+**/.vs/
+[Pp]ackages
+**/bin
+**/x64
+**/obj
+*.dll
+*.pdb
+*.lib
+*.exp
+**/*.user
+**/build/
+[Pp]roperties/
+.nuke/temp
+/artifacts
